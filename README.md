@@ -14,44 +14,33 @@ DevPocket is a simple CLI tool that helps developers quickly initialize a new pr
 
 ```bash
 npm install -g devpocket
-
-#### Using npx
+```
+### Using npx
 ```bash
 npx devpocket init
-
-#####Usage
+```
+### Usage
 Initialize a project in the current directory:
 ```bash
 devpocket init
-
+```
 Initialize in a specific directory:
 ```bash
 devpocket init --dir my-project
-
-######Example
+```
+### Example
 ```bash
-￼
 devpocket init
-
 ? Project name: my-app
 ? Project description: My first project
 ? Choose license: MIT
-
-DevPocket will generate:
-README.md
-LICENSE
-.gitignore
-
-#######Features
-• Interactive CLI
-• Template-based file generation
-• Fast project bootstrap
-
-########Roadmap
-• ￼Project templates (Node / Go / Python)
-• ￼Git initialization
-• ￼GitHub repository creation
-• ￼Publish to npm
-
-#########License
+```
+### Roadmap
+```bash
+• Project templates (Node / Go / Python)
+• Git initialization
+• GitHub repository creation
+• Publish to npm
+```
+### License
 MIT
