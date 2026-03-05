@@ -1,8 +1,7 @@
 {
   "name": "devpocket",
   "version": "0.1.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Bootstrap a professional GitHub repository in seconds",
   "bin": {
     "devpocket": "bin/devpocket.js"
   },
